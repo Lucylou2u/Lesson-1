@@ -1,0 +1,25 @@
+h1
+{color: blue;
+background-color: white;
+border: 10px dashed black;
+padding: 5px;
+width: 750px;}
+
+body
+{
+background-image: url("https://i.pinimg.com/originals/66/9d/37/669d37c29edeaaf08b2ab50b18710141.jpg");
+
+padding: 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+}
+
+table
+{ width: 580px; font-family: sans-serif;
+border: 5px solid black; 
+text-align: center;
+
+}
